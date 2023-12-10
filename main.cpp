@@ -115,10 +115,3 @@ void doingGay(float *save)
      glClear(GL_COLOR_BUFFER_BIT);
 }
 
-
-//хочу пельменей
-//и пива
-
-//Yes, sir!
-
-//Мать твоя новая ветка))))))))))))))))))))))))))))))
