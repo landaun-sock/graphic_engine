@@ -117,3 +117,4 @@ void doingGay(float *save)
 
 
 //хочу пельменей
+//и пива
