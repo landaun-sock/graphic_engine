@@ -109,7 +109,6 @@ void doingGay(float *save)
      float weight = 0.01f * (colorWeightRange[0] + (rand() % (colorWeightRange[1] - colorWeightRange[0] + 1)));
      int position = colorPositionRange[0] + (rand() % (colorPositionRange[1] - colorPositionRange[0] + 1));
 
-     // std::cout << position << '\n';
      save[position] = weight;
 
      glClearColor(save[1], save[2], save[3], save[0]);
