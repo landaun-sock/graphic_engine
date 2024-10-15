@@ -1,6 +1,7 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <iostream>
+#include <cstdlib>
 #include <ctime>
 
 void sizeCallback(GLFWwindow *window, int width, int height);
